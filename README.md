@@ -3,6 +3,7 @@ This repository provides the core implementation of Star-YOLO, a lightweight and
 
 
 📜 Acknowledgments
+
 This repository builds upon and extends the StarNet backbone implementation. We gratefully acknowledge the authors of the original StarNet work for providing their codebase, which served as a foundation for part of this implementation.
 
 Original StarNet repository: (https://github.com/ma-xu/Rewrite-the-Stars)
